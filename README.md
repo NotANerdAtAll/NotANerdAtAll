@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NotANerdAtAll
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning how to code a bot on discord
 - 💞️ I’m looking to collaborate on discord
-- 📫 How to reach me? Through YT: https://www.youtube.com/channel/UCcIgRdi4Bb-8tFj8xonRq6g
 
 
 
